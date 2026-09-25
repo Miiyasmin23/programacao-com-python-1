@@ -1,2 +1,6 @@
-# programacao-com-python-1
-Repositório para registrar atividades da disciplina de Programação com Python I 2026
+# Programação com Python
+## Sobre projeto 
+**Python**
+*Italico*
+- lista
+- lista
